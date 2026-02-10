@@ -12,10 +12,11 @@
 
 
 
-* 🌍  De Chile,Quillota.
-* 🧠  Lo que la vida me enseña.
-* 🏢  Cesante Ojala Jubilado.
-* 🎓  Sigo Siendo estudiante.
+* 🌍  De Quillota, Chile
+* 🌱 Nunca paro de aprender
+* 💻 Desarrollador Web  
+* ⚛️ React Developer 
+* 🚀 Construyendo soluciones escalables.
 
 ## Mi Github
 
